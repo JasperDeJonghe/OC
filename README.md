@@ -15,7 +15,7 @@ git clone https://github.com/JasperDeJonghe/OC.git
 ### 2. Maak een virtual environment
 ```
 python -m venv venv
-venv\Scripts\activate     # Windows
+venv\Scripts\activate
 ```
 ### 3. Installeer alle libraries
 ```
